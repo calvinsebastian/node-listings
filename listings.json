@@ -1,0 +1,1628 @@
+[
+  {
+    "price": 599900,
+    "address": "3884 Mountainview Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1782 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27183800/00_R2906686_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3884_mountainview_avenue_terrace.jpg"
+  },
+  {
+    "price": 559900,
+    "address": "3829 Pine Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "2 ba",
+      "3328 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27181492/00_R2906653_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3829_pine_avenue_terrace.jpg"
+  },
+  {
+    "price": 725000,
+    "address": "5416 Mcconnell Crescent\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "4 ba",
+      "3021 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27178097/00_R2906330_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5416_mcconnell_crescent_terrace.jpg"
+  },
+  {
+    "price": 799000,
+    "address": "2621 First Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "1 ba",
+      "740 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27176135/00_R2906110_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2621_first_avenue_terrace.jpg"
+  },
+  {
+    "price": 549990,
+    "address": "2625 First Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27176138/00_R2906121_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2625_first_avenue_terrace.jpg"
+  },
+  {
+    "price": 289900,
+    "address": "4682 Marten Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "672 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27173492/00_R2905875_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4682_marten_drive_terrace.jpg"
+  },
+  {
+    "price": 639900,
+    "address": "6 4022 Yeo Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "3 ba",
+      "2529 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27166229/02_R2905384_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/6_4022_yeo_street_terrace.jpg"
+  },
+  {
+    "price": 619900,
+    "address": "4018 Benner Street\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2927 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27162379/00_R2905101_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4018_benner_street_terrace.jpg"
+  },
+  {
+    "price": 505000,
+    "address": "5226 Mountain Vista Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "2457 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27155022/00_R2904105_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5226_mountain_vista_drive_terrace.jpg"
+  },
+  {
+    "price": 624990,
+    "address": "2412 First Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2182 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27152934/01_R2904300_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2412_first_avenue_terrace.jpg"
+  },
+  {
+    "price": 237000,
+    "address": "3930 Dobbie Street\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "960 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27149393/01_r2903940_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3930_dobbie_street_terrace.jpg"
+  },
+  {
+    "price": 185000,
+    "address": "115 Curtis Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "1184 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27148350/00_r2903855_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/115_curtis_drive_terrace.jpg"
+  },
+  {
+    "price": 469900,
+    "address": "3973 Hagen Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "3 ba",
+      "3012 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27151892/00_R2904212_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3973_hagen_street_terrace.jpg"
+  },
+  {
+    "price": 375000,
+    "address": "510 Old Lakelse Lake Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "1 ba",
+      "1416 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27143525/00_R2903337_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/510_old_lakelse_lake_drive_terrace.jpg"
+  },
+  {
+    "price": 599900,
+    "address": "3310 Johnstone Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "3 ba",
+      "2192 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27139267/01_r2902907_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3310_johnstone_street_terrace.jpg"
+  },
+  {
+    "price": 695900,
+    "address": "3406 Eby Street\nTerrace",
+    "details": [
+      "Terrace",
+      "6 bd",
+      "2 ba",
+      "2460 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27130453/00_r2902424_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3406_eby_street_terrace.jpg"
+  },
+  {
+    "price": 575000,
+    "address": "4725 Mcconnell Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "3036 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27134073/00_r2902598_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4725_mcconnell_avenue_terrace.jpg"
+  },
+  {
+    "price": 459000,
+    "address": "4643 Soucie Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "1 ba",
+      "1789 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27123882/00_R2901896_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4643_soucie_avenue_terrace.jpg"
+  },
+  {
+    "price": 799900,
+    "address": "4438 Queensway Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "1 ba",
+      "2570 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27122148/00_R2901698_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4438_queensway_drive_terrace.jpg"
+  },
+  {
+    "price": 299900,
+    "address": "4518 Graham Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27118054/00_R2901225_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4518_graham_avenue_terrace.jpg"
+  },
+  {
+    "price": 164900,
+    "address": "46 3889 Muller Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "1 ba",
+      "1024 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27116670/00_R2901161_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/46_3889_muller_avenue_terrace.jpg"
+  },
+  {
+    "price": 264900,
+    "address": "103 4931 Walsh Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1260 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27116672/00_R2901169_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/103_4931_walsh_avenue_terrace.jpg"
+  },
+  {
+    "price": 101000,
+    "address": "3728 Dobbie Street\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27116415/00_R2901154_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3728_dobbie_street_terrace.jpg"
+  },
+  {
+    "price": 729000,
+    "address": "4112 Golden Place\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2514 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27113870/00_R2900702_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4112_golden_place_terrace.jpg"
+  },
+  {
+    "price": 699900,
+    "address": "3805 Eby Street\nTerrace",
+    "details": [
+      "Terrace",
+      "6 bd",
+      "4 ba",
+      "4490 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27122394/00_r2901774_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3805_eby_street_terrace.jpg"
+  },
+  {
+    "price": 574900,
+    "address": "4926 Lazelle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2083 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27113528/00_R2900586_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4926_lazelle_avenue_terrace.jpg"
+  },
+  {
+    "price": 499900,
+    "address": "4940 Hundal Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "1311 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27112656/00_R2900561_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4940_hundal_drive_terrace.jpg"
+  },
+  {
+    "price": 749000,
+    "address": "4645 Graham Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27115700/00_C8061190_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4645_graham_avenue_terrace.jpg"
+  },
+  {
+    "price": 549900,
+    "address": "5315 Mountain Vista Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "2 ba",
+      "2120 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27092283/00_R2899260_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5315_mountain_vista_drive_terrace.jpg"
+  },
+  {
+    "price": 499900,
+    "address": "4828 Scott Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "2 ba",
+      "2268 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27091225/00_R2899111_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4828_scott_avenue_terrace.jpg"
+  },
+  {
+    "price": 595000,
+    "address": "4733 Halliwell Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "2460 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27092281/00_R2899219_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4733_halliwell_avenue_terrace.jpg"
+  },
+  {
+    "price": 799900,
+    "address": "3324 Kenney Street\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2450 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27075233/00_R2897725_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3324_kenney_street_terrace.jpg"
+  },
+  {
+    "price": 549900,
+    "address": "4918 Labelle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "2220 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27070373/01_R2897377_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4918_labelle_avenue_terrace.jpg"
+  },
+  {
+    "price": 599900,
+    "address": "4917 Park Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2200 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27072436/00_R2897558_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4917_park_avenue_terrace.jpg"
+  },
+  {
+    "price": 649900,
+    "address": "4932 Hundal Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "2800 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27066083/00_R2897058_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4932_hundal_drive_terrace.jpg"
+  },
+  {
+    "price": 235000,
+    "address": "5208 Ackroyd Street\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "924 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27063698/00_R2896817_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5208_ackroyd_street_terrace.jpg"
+  },
+  {
+    "price": 220000,
+    "address": "Dl 1712 Nass Valley\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27054289/00_R2895883_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/dl_1712_nass_valley_terrace.jpg"
+  },
+  {
+    "price": 749900,
+    "address": "5133 Eagle Place\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2704 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27051277/00_R2895332_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5133_eagle_place_terrace.jpg"
+  },
+  {
+    "price": 439900,
+    "address": "2806 Braun Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "2396 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27032435/00_R2894144_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2806_braun_street_terrace.jpg"
+  },
+  {
+    "price": 249000,
+    "address": "2275 Usk Railway Access Road\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "0 ba",
+      "776 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27033237/00_R2894209_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2275_usk_railway_access_road_terrace.jpg"
+  },
+  {
+    "price": 150000,
+    "address": "4693 Beaver Crescent\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27032438/00_R2894136_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4693_beaver_crescent_terrace.jpg"
+  },
+  {
+    "price": 544900,
+    "address": "3657 Balsam Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2182 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27026491/01_R2893579_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3657_balsam_avenue_terrace.jpg"
+  },
+  {
+    "price": 729500,
+    "address": "3316 Johnstone Street\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "3375 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27033505/00_R2894300_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3316_johnstone_street_terrace.jpg"
+  },
+  {
+    "price": 349900,
+    "address": "Lot C Kalum Lake Road\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27025660/00_R2893429_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/lot_c_kalum_lake_road_terrace.jpg"
+  },
+  {
+    "price": 380000,
+    "address": "4761 Glen Road\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "1 ba",
+      "1600 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27022682/00_R2893121_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4761_glen_road_terrace.jpg"
+  },
+  {
+    "price": 104000,
+    "address": "3716 Dobbie Street\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27022684/00_R2893122_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3716_dobbie_street_terrace.jpg"
+  },
+  {
+    "price": 189900,
+    "address": "5000 Old Remo Road\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27018306/00_R2892415_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5000_old_remo_road_terrace.jpg"
+  },
+  {
+    "price": 979900,
+    "address": "4826 Lazelle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1620 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27011429/00_R2892075_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4826_lazelle_avenue_terrace.jpg"
+  },
+  {
+    "price": 219900,
+    "address": "Lot A Marion Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27008158/00_R2891857_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/lot_a_marion_avenue_terrace.jpg"
+  },
+  {
+    "price": 434900,
+    "address": "4710 Weber Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "1920 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27011735/00_R2892082_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4710_weber_avenue_terrace.jpg"
+  },
+  {
+    "price": 849900,
+    "address": "1 774 Kalum Lake Road\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "4 ba",
+      "3430 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27011428/00_R2892068_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/1_774_kalum_lake_road_terrace.jpg"
+  },
+  {
+    "price": 174900,
+    "address": "4011 Dediluke Place\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26997801/00_R2891081_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4011_dediluke_place_terrace.jpg"
+  },
+  {
+    "price": 327000,
+    "address": "5 4632 Davis Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1120 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/27005905/00_R2891744_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5_4632_davis_avenue_terrace.jpg"
+  },
+  {
+    "price": 750000,
+    "address": "5116 Coho Place\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2710 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/brc_idx_rew/262913264/01_R2891637_01.jpeg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25",
+    "imagePath": "photos/5116_coho_place_terrace.jpg"
+  },
+  {
+    "price": 685000,
+    "address": "5565 Kleanza Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "2720 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26989233/00_R2890279_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5565_kleanza_drive_terrace.jpg"
+  },
+  {
+    "price": 155000,
+    "address": "4010 Nash Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26997804/00_R2891097_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4010_nash_drive_terrace.jpg"
+  },
+  {
+    "price": 155000,
+    "address": "4006 Nash Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26997802/00_R2891086_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4006_nash_drive_terrace.jpg"
+  },
+  {
+    "price": 474000,
+    "address": "4704 Weber Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "1622 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26982910/00_R2890111_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4704_weber_avenue_terrace.jpg"
+  },
+  {
+    "price": 249900,
+    "address": "Dl 840 S 37 Highway\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26982570/00_R2890094_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/dl_840_s_37_highway_terrace.jpg"
+  },
+  {
+    "price": 349900,
+    "address": "2 2705 Kalum Street\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "1213 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26973168/00_R2889261_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2_2705_kalum_street_terrace.jpg"
+  },
+  {
+    "price": 415000,
+    "address": "Lot A Williams Creek Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26967208/02_R2888854_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/lot_a_williams_creek_avenue_terrace.jpg"
+  },
+  {
+    "price": 379900,
+    "address": "2510 Kerr Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "1 ba",
+      "875 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26966222/00_R2888789_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2510_kerr_street_terrace.jpg"
+  },
+  {
+    "price": 380000,
+    "address": "525 Whitebottom Road\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26967447/00_R2888924_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/525_whitebottom_road_terrace.jpg"
+  },
+  {
+    "price": 325990,
+    "address": "4612 Davis Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "967 sf",
+      "0 x 0 ft"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/brc_idx_rew/262909956/00_R2888329_01.jpeg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25",
+    "imagePath": "photos/4612_davis_avenue_terrace.jpg"
+  },
+  {
+    "price": 279000,
+    "address": "2289-2305 Usk Railway Access Road\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "1 ba",
+      "804 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26948399/00_R2887200_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2289_2305_usk_railway_access_road_terrace.jpg"
+  },
+  {
+    "price": 759900,
+    "address": "3887 Mountainview Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "3 ba",
+      "1761 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26955857/00_R2888027_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3887_mountainview_avenue_terrace.jpg"
+  },
+  {
+    "price": 82500,
+    "address": "52 4625 Graham Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "1032 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26956425/00_R2888069_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/52_4625_graham_avenue_terrace.jpg"
+  },
+  {
+    "price": 554900,
+    "address": "4724 Tuck Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2532 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26955073/00_r2887929_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4724_tuck_avenue_terrace.jpg"
+  },
+  {
+    "price": 799900,
+    "address": "3946 Wren Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "7 bd",
+      "3 ba",
+      "2724 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26950086/00_R2887388_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3946_wren_avenue_terrace.jpg"
+  },
+  {
+    "price": 497500,
+    "address": "4724 Soucie Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "6 bd",
+      "3 ba",
+      "2750 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26943088/00_R2886908_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4724_soucie_avenue_terrace.jpg"
+  },
+  {
+    "price": 519800,
+    "address": "Twedle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26942291/00_R2886826_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/twedle_avenue_terrace.jpg"
+  },
+  {
+    "price": 78000,
+    "address": "74 4625 Graham Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "897 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26936821/00_R2886514_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/74_4625_graham_avenue_terrace.jpg"
+  },
+  {
+    "price": 1160000,
+    "address": "3101 Solomon Way\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "5 ba",
+      "3309 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26920372/01_R2884795_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3101_solomon_way_terrace.jpg"
+  },
+  {
+    "price": 199900,
+    "address": "Lot B Thornhill Street\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26923372/00_R2885240_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/lot_b_thornhill_street_terrace.jpg"
+  },
+  {
+    "price": 174900,
+    "address": "4809 Dairy Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26912763/00_R2884379_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4809_dairy_avenue_terrace.jpg"
+  },
+  {
+    "price": 809900,
+    "address": "4934 Twedle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "7 bd",
+      "3 ba",
+      "3290 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26906374/02_R2883999_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4934_twedle_avenue_terrace.jpg"
+  },
+  {
+    "price": 995900,
+    "address": "4670 Lowrie Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "3 ba",
+      "3240 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26905423/00_R2883901_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4670_lowrie_avenue_terrace.jpg"
+  },
+  {
+    "price": 529900,
+    "address": "4919 Straume Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "2740 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26884545/00_r2881907_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4919_straume_avenue_terrace.jpg"
+  },
+  {
+    "price": 509900,
+    "address": "2307 Evergreen Street\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2200 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26884300/00_R2881906_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2307_evergreen_street_terrace.jpg"
+  },
+  {
+    "price": 879900,
+    "address": "2037 First Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "483 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26880271/00_R2881718_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2037_first_avenue_terrace.jpg"
+  },
+  {
+    "price": 584900,
+    "address": "4901 Straume Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2700 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26878691/00_R2881605_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4901_straume_avenue_terrace.jpg"
+  },
+  {
+    "price": 479900,
+    "address": "3503 Sparks Street\nTerrace",
+    "details": [
+      "Terrace",
+      "6 bd",
+      "3 ba",
+      "2450 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26873731/00_R2881336_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3503_sparks_street_terrace.jpg"
+  },
+  {
+    "price": 499999,
+    "address": "5015 Mcrae Crescent\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1915 sf"
+    ],
+    "imageUrl": "https://assets.rew.ca/assets/placeholders/listing_xlarge-17fd17d443aa40bdeb0efb287c6aed92cf6420d7a2d205adedcc95a367536bbc.png",
+    "imagePath": "photos/5015_mcrae_crescent_terrace.jpg"
+  },
+  {
+    "price": 689000,
+    "address": "5412 Mcconnell Crescent\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "4 ba",
+      "3280 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26858813/00_R2880041_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5412_mcconnell_crescent_terrace.jpg"
+  },
+  {
+    "price": 959900,
+    "address": "3339 Old Lakelse Lake Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "3600 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26854661/00_R2879525_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3339_old_lakelse_lake_drive_terrace.jpg"
+  },
+  {
+    "price": 499900,
+    "address": "4903 Gair Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "3100 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26853410/00_R2879422_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4903_gair_avenue_terrace.jpg"
+  },
+  {
+    "price": 674900,
+    "address": "4718 Mcconnell Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "3 ba",
+      "4056 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26860606/00_R2880362_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4718_mcconnell_avenue_terrace.jpg"
+  },
+  {
+    "price": 199900,
+    "address": "27 3889 Muller Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "1474 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26853411/00_R2879452_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/27_3889_muller_avenue_terrace.jpg"
+  },
+  {
+    "price": 374900,
+    "address": "3515 Kalum Street\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "890 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26850390/00_R2879062_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3515_kalum_street_terrace.jpg"
+  },
+  {
+    "price": 340000,
+    "address": "2480 First Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "1024 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26841001/00_R2878537_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2480_first_avenue_terrace.jpg"
+  },
+  {
+    "price": 299900,
+    "address": "130 4524 Scott Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1575 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26832005/00_R2877899_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/130_4524_scott_avenue_terrace.jpg"
+  },
+  {
+    "price": 429000,
+    "address": "2878 Squirrel Point\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "1 ba",
+      "1000 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26816510/00_R2876461_1.jpg?auto=format&trim=auto&fit=fill&w=480&h=287&sharp=25&crop=top%2Cleft&fill=blur",
+    "imagePath": "photos/2878_squirrel_point_terrace.jpg"
+  },
+  {
+    "price": 105000,
+    "address": "37 4619 Queensway Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "976 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26804404/00_R2875580_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/37_4619_queensway_drive_terrace.jpg"
+  },
+  {
+    "price": 259000,
+    "address": "Dl 922 Usk\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26797160/00_R2875013_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/dl_922_usk_terrace.jpg"
+  },
+  {
+    "price": 369900,
+    "address": "6 2609 Braun Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1266 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26789135/00_R2874058_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/6_2609_braun_street_terrace.jpg"
+  },
+  {
+    "price": 579900,
+    "address": "4910 Gair Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2316 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26788778/01_R2873953_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4910_gair_avenue_terrace.jpg"
+  },
+  {
+    "price": 199900,
+    "address": "Lot A Thornhill Street\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26778540/00_R2872996_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/lot_a_thornhill_street_terrace.jpg"
+  },
+  {
+    "price": 385000,
+    "address": "A 3421 Kalum Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1200 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26770847/00_R2872459_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/a_3421_kalum_street_terrace.jpg"
+  },
+  {
+    "price": 385000,
+    "address": "B 3421 Kalum Street\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "1200 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26770848/00_R2872468_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/b_3421_kalum_street_terrace.jpg"
+  },
+  {
+    "price": 579990,
+    "address": "3611 Cottonwood Crescent\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2600 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26768542/01_R2872292_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3611_cottonwood_crescent_terrace.jpg"
+  },
+  {
+    "price": 774900,
+    "address": "1121 Old Lakelse Lake Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "4 ba",
+      "3150 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26766288/01_R2872171_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/1121_old_lakelse_lake_drive_terrace.jpg"
+  },
+  {
+    "price": 194000,
+    "address": "49 3889 Muller Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "859 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26746545/00_R2870190_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/49_3889_muller_avenue_terrace.jpg"
+  },
+  {
+    "price": 899000,
+    "address": "19829 16 Highway\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26741668/00_R2869901_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/19829_16_highway_terrace.jpg"
+  },
+  {
+    "price": 719900,
+    "address": "A 4940 Twedle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "4 ba",
+      "2010 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26740371/00_R2869772_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/a_4940_twedle_avenue_terrace.jpg"
+  },
+  {
+    "price": 529500,
+    "address": "2711 Cramer Street\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "2 ba",
+      "1800 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26739393/01_R2869707_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2711_cramer_street_terrace.jpg"
+  },
+  {
+    "price": 249900,
+    "address": "4393 Creech Street\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "1 ba",
+      "755 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26737467/00_R2869546_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4393_creech_street_terrace.jpg"
+  },
+  {
+    "price": 549000,
+    "address": "21 Columbine Lane\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "894 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26719688/00_R2867482_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/21_columbine_lane_terrace.jpg"
+  },
+  {
+    "price": 539900,
+    "address": "3441 River Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "1450 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26716624/00_R2867282_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3441_river_drive_terrace.jpg"
+  },
+  {
+    "price": 159000,
+    "address": "5867 Usk-Shannon Road\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "0 ba",
+      "521 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26701558/00_R2866075_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5867_usk_shannon_road_terrace.jpg"
+  },
+  {
+    "price": 145000,
+    "address": "4634 Lowrie Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "2 ba",
+      "1888 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26701904/00_R2866172_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4634_lowrie_avenue_terrace.jpg"
+  },
+  {
+    "price": 634900,
+    "address": "2037 Singlehurst Road\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "1792 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26679253/01_R2864011_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2037_singlehurst_road_terrace.jpg"
+  },
+  {
+    "price": 649000,
+    "address": "5011 Graham Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "4 ba",
+      "1100 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2836818/20231210065053/01_R2836818_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5011_graham_avenue_terrace.jpg"
+  },
+  {
+    "price": 499000,
+    "address": "5243 Keith Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8056784/20240117175124/01_C8056784_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5243_keith_avenue_terrace.jpg"
+  },
+  {
+    "price": 150000,
+    "address": "71 3889 Muller Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "997 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26666974/00_R2862980_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/71_3889_muller_avenue_terrace.jpg"
+  },
+  {
+    "price": 530000,
+    "address": "2371 Toynbee Street\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "2185 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26662807/02_R2862475_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/2371_toynbee_street_terrace.jpg"
+  },
+  {
+    "price": 589900,
+    "address": "3710 Eby Street\nTerrace",
+    "details": [
+      "Terrace",
+      "8 bd",
+      "4 ba",
+      "3600 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26659271/00_R2862331_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3710_eby_street_terrace.jpg"
+  },
+  {
+    "price": 388000,
+    "address": "4525 Park Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "2 ba",
+      "1513 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26654089/00_R2862014_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4525_park_avenue_terrace.jpg"
+  },
+  {
+    "price": 229990,
+    "address": "66 3616 Larch Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "924 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26624337/01_R2859537_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/66_3616_larch_avenue_terrace.jpg"
+  },
+  {
+    "price": 624900,
+    "address": "4731 Bolton Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "2 ba",
+      "2568 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26618209/01_R2859074_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4731_bolton_avenue_terrace.jpg"
+  },
+  {
+    "price": 189000,
+    "address": "89 3616 Larch Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "2 ba",
+      "860 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26595771/01_R2856903_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/89_3616_larch_avenue_terrace.jpg"
+  },
+  {
+    "price": 44000,
+    "address": "7 4625 Graham Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "750 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26535848/00_R2851633_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/7_4625_graham_avenue_terrace.jpg"
+  },
+  {
+    "price": 599900,
+    "address": "4324 Birch Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "5 bd",
+      "4 ba",
+      "3306 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26527623/00_R2850712_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4324_birch_avenue_terrace.jpg"
+  },
+  {
+    "price": 1132300,
+    "address": "4910 Keith Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26507121/00_C8057534_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4910_keith_avenue_terrace.jpg"
+  },
+  {
+    "price": 599990,
+    "address": "4935 Agar Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2476 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2848056/20240208203251/01_R2848056_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4935_agar_avenue_terrace.jpg"
+  },
+  {
+    "price": 879000,
+    "address": "4625-4631 Davis Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8057331/20240205232357/01_C8057331_1.jpg?auto=format&trim=auto&fit=fill&w=480&h=287&sharp=25&crop=top%2Cleft&fill=blur",
+    "imagePath": "photos/4625_4631_davis_avenue_terrace.jpg"
+  },
+  {
+    "price": 784900,
+    "address": "3307-3311 Market Street\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8057351/20240206004058/01_C8057351_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3307_3311_market_street_terrace.jpg"
+  },
+  {
+    "price": 659900,
+    "address": "3312 Johnstone Street\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "2250 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26475789/00_R2846438_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/3312_johnstone_street_terrace.jpg"
+  },
+  {
+    "price": 259900,
+    "address": "5106 Twedle Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8057214/20240202181101/01_C8057214_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5106_twedle_avenue_terrace.jpg"
+  },
+  {
+    "price": 229900,
+    "address": "4727 Park Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2844483/20240127001143/01_R2844483_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4727_park_avenue_terrace.jpg"
+  },
+  {
+    "price": 99000,
+    "address": "4440 Little Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2844487/20240201185246/01_R2844487_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4440_little_avenue_terrace.jpg"
+  },
+  {
+    "price": 174900,
+    "address": "19 3624 Kalum Street\nTerrace",
+    "details": [
+      "Terrace",
+      "2 bd",
+      "1 ba",
+      "954 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26444076/01_R2843942_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/19_3624_kalum_street_terrace.jpg"
+  },
+  {
+    "price": 949900,
+    "address": "5255 Deep Creek Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "7 bd",
+      "5 ba",
+      "3804 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2839179/20240105150218/01_R2839179_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5255_deep_creek_drive_terrace.jpg"
+  },
+  {
+    "price": 1449500,
+    "address": "4820 Keith Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8056363/20231221172110/01_C8056363_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4820_keith_avenue_terrace.jpg"
+  },
+  {
+    "price": 1319500,
+    "address": "4940 Keith Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8056337/20231219152135/01_C8056337_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4940_keith_avenue_terrace.jpg"
+  },
+  {
+    "price": 1280500,
+    "address": "4810 Keith Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8056292/20231215232356/01_C8056292_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4810_keith_avenue_terrace.jpg"
+  },
+  {
+    "price": 1199000,
+    "address": "4534 Dutch Valley Road\nTerrace",
+    "details": [
+      "Terrace",
+      "4 bd",
+      "3 ba",
+      "4154 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/listing/crea_ddf/26291631/00_R2833284_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4534_dutch_valley_road_terrace.jpg"
+  },
+  {
+    "price": 699000,
+    "address": "5005 Cole Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "3 bd",
+      "4 ba",
+      "5038 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2830579/20231107162256/01_R2830579_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5005_cole_avenue_terrace.jpg"
+  },
+  {
+    "price": 599900,
+    "address": "5104 Park Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8054553/20231006192143/01_C8054553_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/5104_park_avenue_terrace.jpg"
+  },
+  {
+    "price": 349990,
+    "address": "4338 Lakelse Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "6 bd",
+      "2 ba",
+      "1298 sf",
+      "0 x 0 ft"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/brc_idx_rew/brc/R2815565/20230914154528/01.jpeg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25",
+    "imagePath": "photos/4338_lakelse_avenue_terrace.jpg"
+  },
+  {
+    "price": 579000,
+    "address": "127 Curtis Drive\nTerrace",
+    "details": [
+      "Terrace",
+      "1 bd",
+      "1 ba",
+      "1119 sf"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/R2786657/20230609041200/01_R2786657_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/127_curtis_drive_terrace.jpg"
+  },
+  {
+    "price": 680000,
+    "address": "4521 Keith Avenue\nTerrace",
+    "details": [
+      "Terrace",
+      "0 bd"
+    ],
+    "imageUrl": "https://assets-listings.rew.ca/crea_ddf/bcnreb/C8051313/20230619195101/01_C8051313_1.jpg?auto=format&trim=auto&fit=crop&w=480&h=287&sharp=25&crop=top%2Cleft",
+    "imagePath": "photos/4521_keith_avenue_terrace.jpg"
+  }
+]
